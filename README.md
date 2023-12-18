@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Touch and I'm a  student., from Chiang Mai University.</h2>
+<h2 align="left">Hi 👋! My name is Touch and I'm a CPE student., from Chiang Mai University.</h2>
 
 ###
 
